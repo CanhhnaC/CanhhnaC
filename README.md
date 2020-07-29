@@ -1,3 +1,5 @@
+![image](https://github.com/CanhhnaC/CanhhnaC/blob/master/images/pic1.png)
+
 ### Hi there 👋
 
  🔭 I’m currently working on home
